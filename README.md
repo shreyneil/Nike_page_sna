@@ -1,6 +1,6 @@
 # Nike_page_sna
 - Essentials
-  - Gephi version 0.92
+  - Gephi version 0.9.2
   - a .gdg file (can be generated online)
   - any social media platform for analysis
   
