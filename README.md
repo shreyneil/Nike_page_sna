@@ -13,3 +13,5 @@ The project contains all related properties with respect to the network includin
 centrality , average path length etc. The network has been modular using modular classes and partitioning 
 colours to different module classes. The graph has also been made aesthetic by adjusting size of the 
 nodes with respect to degree.
+
+![NIKE](https://github.com/shreyneil/Nike_page_sna/blob/master/nike.png)
