@@ -7,7 +7,7 @@
 - Desciption
 The above project depicts Social Network analysis done on the facebook page of nike using gephi. 
 The data of the page was retrieved using netvizz app. The network is an undirected graph as people 
-who like the facebook page of nike , follow it and not the vice versa. The network contains 1142 
+who like the facebook page of nike , follow it and not the vice versa. The network contains 1142
 nodes with 6597 edges. The initial step involves application of force atlas algorithm on the network. 
 The project contains all related properties with respect to the network including betweenness 
 centrality , average path length etc. The network has been modular using modular classes and partitioning 
